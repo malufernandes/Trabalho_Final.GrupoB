@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lato&family=Ubuntu:wght@400;700&display=swap');
+
+.parte4{
+    font-family: 'Inter', sans-serif;
+    background: rgba(210, 220, 233, 0.15);
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 120px 80px;
+}
+
+.top{
+    position: relative;
+    left: 30px;
+    top:20px;
+}
+
+.top h1{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+    position: relative;
+    width: 291px;
+    height: 44px;
+    top: -80px;
+    left:50px;
+}
+
+.top a{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2648A1;
+    position: relative;
+    width: 73px;
+    height: 19px;
+    top:-138px;
+    left:400px;
+}
+
+.boxesimgs{
+    position: relative;
+    width: 362px;
+    height: 462px;
+    top:-200px;
+    left:30px;
+    right:20px;
+}
+
+.boximg1{
+    position: absolute;
+    top:150px;
+    left:50px;
+}
+
+.boximg2{
+    position: absolute;
+    top:150px;
+    left:450px;
+}
+
+.boximg3{
+    position: absolute;
+    top:150px;
+    left:850px;
+}
+
+.boxesimgs img{
+    position: relative;
+    width: 362px;
+    height: 271px;
+}
+
+.boxesimgs img:hover{
+border: 2px solid #2648A1;
+box-sizing: border-box;
+}
+
+.boxesimgs p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #273444;
+}
+
+.link1{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    color: #2648A1;
+    position: relative;
+    width: 340px;
+    height: 44px;
+
+}
+
+.link1:hover{
+    text-decoration-line: underline;
+    text-decoration-color: #2648A1;
+}
+
+.link2{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0px 10px;
+    position: relative;
+    width: 68px;
+    height: 17px;
+    left:-130px;
+    top:65px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.link2:hover{
+    color: #FFFFFF;
+    background: #2648A1;
+    border: 1px solid #2648A1;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.parte5{
+    background-color: white;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 120px 80px;
+}
+
+.parte5 h1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #2648A1;
+    position: relative;
+    width: 159px;
+    height: 44px;
+    top: -50px;
+    left:580px;
+}
+
+.linha{
+    border-bottom:2px solid #2648A1;
+    position:relative;
+    width: 80px;
+    top: -70px;
+    left:620px;
+}
+
+.imgs img{
+    margin-left: 50px;
+    top:10px;
+}
