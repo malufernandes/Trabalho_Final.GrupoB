@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+
+}
+/*
+.parte2{
+    width: 1440px;
+    height: 119;
+}
+*/
+.p2 h3{
+    position: absolute;
+    height: 64px;
+    left: 10.42%;
+    top: calc(50% - 64px/2 - 147.5px);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 64px;
+    color: #273444;
+}
+
+.p2 p{
+    position: absolute;
+    left: 10.42%;
+    top: 36.25%;
+    bottom: 38.29%;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 160%;
+    color: #3C4858;
+}
+
+.botao2{
+    position: absolute;
+    height: 18px;
+    left: 10.42%;
+    top: 460px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-transform: uppercase;
+    list-style: none;
+}
+.botao2 a{
+    text-decoration: none;
+    color: #2648A1;
+    border: 1px solid;
+    padding: 11.5px 90px 10.5px 90px;
+    border-radius: 4px;
+}
+
+.p2 figure img{
+    position: absolute;
+    width: 430px;
+    height: 430px;
+    left: 825px;
+    top: 119px;
+}
+
+.parte3{
+
+}
+
+.parte3 h3{
+    position: relative;
+    width: 349px;
+    height: 48px;
+    left: 146px;
+    top: 700px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
+
+.p3{
+    padding: 14px;
+    position: relative;
+    height: 230px;
+    left: 150px;
+    top: 720px;
+    border: 1px solid #000000; /*rever dps*/
+    box-sizing: border-box;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 44px;
+    transition: 0.4s ease-in-out;
+}
+
+.p3:hover{
+    background: #FDB32F;
+    color: #ffffff;
+}
+/*Teste*/
+.p3 a:hover{
+    color: #805127;
+    font-style: italic;
+    text-decoration: none;
+}
+/*Teste*/
+.p3 p{
+    position: relative;
+    width: 79px;
+    height: 14px;
+    top: -30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: #1F2D3D;
+    order: 0;
+    flex-grow: 0;
+    margin: 33px 0px;
+}
+
+.p3 h5{
+    position: relative;
+    width: 223px;
+    height: 87px;
+    top: -30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 160%;
+}
+
+.p3 a{
+    position: relative;
+    width: 223px;
+    height: 22px;
+    top: -30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 160%;
+    text-decoration-line: underline;
+    color: #2648A1;
+}
+
+.link-ve a{
+    position: absolute;
+    width: 172px;
+    height: 19px;
+    left: 157px;
+    top: 1140px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #2648A1;
+}
