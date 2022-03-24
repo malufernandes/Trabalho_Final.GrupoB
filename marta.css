@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+.destaque{
+    width: 1458px;
+    height: 590px;
+    top: -10px;
+    left: -12px;
+    background:#2648A1;
+}
+
+.container{
+    position: relative;
+    width: 1458px;
+    height: 125px;
+    left: 0px;
+    right: 0%;
+    top: 0px;
+    bottom: 0%;
+    background: #224586;
+}
+
+.container p{
+    position: absolute;
+    left: 138px;
+    right: 83.75%;
+    top: 20%;
+    bottom: 30.83%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 100%;
+    padding-left: 5px;
+    color: #ffff;
+
+}
+.container p b{
+    position: absolute;
+    left: 6%;
+    right: 83.75%;
+    top: 30.83%;
+    bottom: 30.83%;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31px;
+    padding-top: 7px;
+    line-height: 100%;
+    color: #ffff;
+
+}
+.container a{
+    position: relative;
+    left: 680px;
+    color: #F9FAFC;
+    text-decoration: none;
+    padding: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.twitter{
+    position: relative;
+    width: 22px;
+    height: 22px;
+    left: 680px;
+    top: 5px;
+}
+
+.instagram{
+    position: relative;
+    width: 22px;
+    height: 22px;
+    left: 680px;
+    top: 25px;
+    padding: 20px;
+}
+
+.destaque h2{
+    position: absolute;
+    width: 560.4px;
+    left: 151.46px;
+    top: 171px;
+    height: 58px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #f2f2f2;
+}
+.destaque p{
+    position: absolute;
+    left: 151.46px;
+    top: 277px;
+    height: 87px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 140%;
+    margin-top: 48px;
+    color: #F9FAFC;
+}
+
+.hills{
+    position: absolute;
+    height: 538px;
+    left: 714px;
+    top: 222px;
+}
+.botao1{
+    position: absolute;
+    height: 40px;
+    width: 296.86px;
+    left: 151.46px;
+    top: 411px;
+    bottom: 36.75%;
+    right: 69.17%;
+    margin-top: 47px;
+    background: #FAB900;
+}
+.botao1 a{
+    position: absolute;
+    height: 18px;
+    left: 7.06%;
+    right: 7.66%;
+    top: calc(50% - 18px/2 + 0.5px);
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:#2648A1;
+}
